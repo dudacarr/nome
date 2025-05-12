@@ -1,0 +1,6 @@
+nome = str(input("Digite seu nome: "))
+# while nome == "Digite seu nome: "
+if nome == "Gabriel" or nome == "Arthur" or nome == "gabriel" or nome == "arthur":
+    print("parabéns você é viado!!")
+else:
+  print("piranha patética kkkk")
